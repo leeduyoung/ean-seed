@@ -1,6 +1,6 @@
-# AngularStarter
+# ean-seed project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
+Angular5 + nodejs + express 기반의 seed 프로젝트 입니다.
 
 ## Development server
 
