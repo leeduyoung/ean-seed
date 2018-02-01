@@ -4,7 +4,8 @@ Angular5 + nodejs + express 기반의 seed 프로젝트 입니다.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+npm start 명령어를 사용하여 개발 서버를 실행합니다.
+`http://localhost:3000/`에 angular5 기반의 웹이 실행되고, `http://localhost:3000/api`에 express api가 실행됩니다.
 
 ## Code scaffolding
 
